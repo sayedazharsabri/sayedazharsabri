@@ -1,6 +1,7 @@
-<h1 align="center"> I'm Sayed Azhar Sabri</h1>
+![banner](https://github.com/sayedazharsabri/sayedazharsabri/assets/71922989/61ad759c-12b8-4d00-8f00-47f286321f9b)
 
-## I am a Developer, Teacher, Mentor, and an Orator
+
+<h1 align="left"> Sayed Azhar Sabri</h1>
 
 I’m a full-stack developer with 15+ years of experience in developing applications and following my passion of teaching for bridging tech & education.
 
