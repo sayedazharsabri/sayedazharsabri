@@ -30,23 +30,12 @@ I’m a full-stack developer with 15+ years of experience in developing applicat
 <br/>
 
 # 🌐 Socials:
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayedazharsabri) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codebyheart) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SayedAzharSabri) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10915218) <a href='https://topmate.io/sayedazharsabri' target="_blank"><img alt='Topmate' src='https://img.shields.io/badge/Topmate-100000?style=for-the-badge&logo=Topmate&logoColor=FE6802&labelColor=FF0000&color=FF5613'/></a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codebyheart)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayedazharsabri) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10915218) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SayedAzharSabri)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/azhar7756)
-[![Topmate](https://img.shields.io/badge/Topmate-%23FF0000.svg?logo=Topmate&logoColor=white)](https://topmate.io/sayedazharsabri)
 
-<!-- <div align="center">
 
-[![Topmate](https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75)](https://topmate.io/sayedazharsabri/588813)
-
-</div>
-       -->
-
-# 💻 Tech Stack:
-
-  
-# Skills <img src='./assets/skill.gif'   width=25 > 
+# Skills <img src='./assets/skill.gif'   width=25 > :
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -59,9 +48,6 @@ I’m a full-stack developer with 15+ years of experience in developing applicat
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />   ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> |
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" />  |
-
-  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 # 📊 GitHub Stats:
